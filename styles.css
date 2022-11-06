@@ -1,0 +1,145 @@
+body {
+  margin: 0;
+  color:#40514E;
+  text-align: center;
+  font-family: 'Poor Story', cursive;
+}
+p{
+  font-size: 25px;
+  color:#425F57;
+}
+li{
+  font-size: 25px;
+  color:#425F57;
+}
+td{
+  font-size: 20px;
+  color:#425F57;
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 5px;
+}
+h1 {
+  font-family: 'Poor Story', cursive;
+  font-size: 5rem;
+  margin: 50px auto 0 auto;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Poor Story', cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #80489C;
+  font-family: 'Poor Story', cursive;
+  font-size: 1.5rem;
+}
+a:hover{
+  color:black;
+}
+.top-container {
+  background-color: #5DA7DB;
+  position: relative;
+  padding-top : 100px;
+}
+.middle-container{
+  padding-top:50px;
+  background-color: #FFF8EA;
+  padding-bottom: 20px;
+}
+.bottom-container{
+  padding:20px 50px;
+  background-color: #5DA7DB;
+  color:#FFF8EA;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.abc{
+  width:20%;
+}
+.abcd{
+  width:50%;
+  margin:auto;
+  padding-bottom:20px;
+}
+.one {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.tableu{
+  position: relative;
+  left:30px;
+}
+.extra{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  padding-top : 0;
+  background-color: #FFF8EA;
+}
+.extra1{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: center;
+  table-layout: auto;
+}
+.two {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.top-cloud {
+  position: absolute;
+  top : 50px;
+  right : 300px;
+}
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+.bottom-cloud {
+  position: absolute;
+  left : 400px;
+  bottom: 280px;
+}
+.alpha{
+  color:#FFF8EA;
+}
+.beta{
+  color: #FFFFFF ;
+  text-decoration: none;
+}
+.footer-link{
+  color:#FFF8EA;
+  text-decoration: none;
+  font-size:20px;
+}
+.testbutton {
+  font-family: 'comic sans ms';
+  font-weight: bold;
+  color: #FFFFFF ;
+  font-size: 17px;
+  text-shadow: 3px 2px 0 #7679DE;
+  box-shadow: 1px 1px 1px #BEE2F9;
+  padding: 10px 25px;
+  border-radius: 10px;
+  border: 2px solid #3866A3;
+  background: #5DA7DB;
+  background: linear-gradient(to top, #5DA7DB, #468CCF);
+}
+.testbutton:hover {
+  color: #1E0F47;
+  background: #468CCF;
+}
